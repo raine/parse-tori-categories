@@ -1,0 +1,16 @@
+{
+  "name": "parsing-tori-categories",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Raine Virta <raine.virta@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "lsc parse.ls"
+  },
+  "dependencies": {
+    "acorn": "^1.2.2",
+    "archy": "^1.0.0",
+    "ramda": "^0.14.0",
+    "treis": "^2.3.9"
+  }
+}
